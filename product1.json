@@ -3,14 +3,14 @@
         "id": 1,
         "name": "Haikyuu!! Volume 1",
         "price": 88,
-        "image": "/images/hq1front.png"
+        "image": "images/hq1front.png"
     },
 
 {
         "id": 2,
         "name": "Haikyuu!! Volume 2",
         "price": 88,
-        "image": "/images/hq2front.png"
+        "image": "images/hq2front.png"
     },
     {
         "id": 3,
