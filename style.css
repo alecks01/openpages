@@ -120,11 +120,11 @@ nav{
 }
 
 .sliderBg{
-    width: 840px;
+    width: 750px;
     height: 750px;
     border-radius: 50%;
     position: absolute;
-    left:20%;
+    
 }
 
 .sliderimg{
