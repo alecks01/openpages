@@ -1,4 +1,4 @@
-html{
+.html{
     scroll-behavior: smooth;
 }
 
@@ -1492,7 +1492,7 @@ footer{
    top: 250;
    left: 0;
    width: 1689;
-   max-height: 800;
+   max-height: 700;
    
 }
 
