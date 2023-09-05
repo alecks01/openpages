@@ -681,7 +681,7 @@ footer{
 
 .gpsimg{
     position: relative;
-    left: 1000px;
+    left: 1px;
     margin: 20px;
     width: 900;
     height: 900;
@@ -692,7 +692,7 @@ footer{
     margin: 0 30;
     position: relative;
     bottom: 700;
-    left: -900;
+    left: 1000;
     font-size: 20;
     
 }
