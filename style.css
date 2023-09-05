@@ -120,11 +120,11 @@ nav{
 }
 
 .sliderBg{
-    width: 750px;
+    width: 840px;
     height: 750px;
     border-radius: 50%;
     position: absolute;
-    left:28%;
+    left:20%;
 }
 
 .sliderimg{
@@ -401,7 +401,7 @@ nav{
 }
 
 .mainvid{
-    margin: 30px 150px 50px;
+    margin: 30px 10px 50px;
 }
 
 .me{
@@ -409,7 +409,7 @@ nav{
     right: 10%;
     top: 15%;
     color: white;
-    font-size: 35px;
+    font-size: 40px;
 }
 
 .clickmore{
