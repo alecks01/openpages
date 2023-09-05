@@ -681,8 +681,8 @@ footer{
 
 .gpsimg{
     position: relative;
-    left: 30px;
-    margin: 40px;
+    left: 1px;
+    margin: 20px;
     width: 900;
     height: 900;
 }
@@ -692,8 +692,8 @@ footer{
     margin: 0 30;
     position: relative;
     bottom: 700;
-    left: 1000;
-    font-size: 30;
+    left: -900;
+    font-size: 20;
     
 }
 
@@ -723,12 +723,13 @@ footer{
 .productimg{
     width: 700px;
     height: 700px;
+    
 }
 
 
 .productright{
     position: relative;
-    left: 800;
+    left: 720;
     bottom: 650;
     font-size: 20px;
 }
@@ -1176,7 +1177,7 @@ footer{
       margin-left: 50;
     position: relative;
     align-items: left;
-    top: -30;
+    top: 3;
     
     
 }
